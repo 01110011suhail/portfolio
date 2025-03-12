@@ -6,10 +6,6 @@ Web Development: Proficient in HTML, CSS, JavaScript, and frameworks like React 
 
 Java Development: With expertise in Java and Spring Boot, I develop robust back-end systems that power web applications, ensuring scalability and performance.
 
-Mobile App Development: I create intuitive mobile applications for both iOS and Android platforms, focusing on user engagement and functionality.
-
-UI/UX Design: I believe that great design is at the heart of every successful application. My approach combines aesthetics with usability, ensuring that users have a delightful experience.
-
 Each project in my portfolio reflects my commitment to quality and my ability to adapt to new challenges. I am always eager to learn and grow, and I thrive in collaborative environments where I can contribute my skills and creativity.
 
 Thank you for visiting my portfolio! I look forward to the opportunity to work together and bring your ideas to life.
