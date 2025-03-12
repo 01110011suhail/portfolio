@@ -21,16 +21,23 @@
                     <li><a href="#services">Services</a></li>
                     <li><a href="#portfolio">Portfolio</a></li>
                     <li><a href="#contact">Contact</a></li>
+                    <li><a href="#certification">Certification</a></li>
+
                     <i class="fa fa-times" onclick="closemenu()"></i>
 
                 </ul>
                 <i class="fa fa-bars" onclick="openmenu()"></i>
 
             </nav>
-            <div class="header-text">
-                <p>Full Stack Developer</p>
-                <h1>Hi, I'm <span>Md Suhail</span> <br> From India</h1>
+            <div class="nav-home">
+                <div class="header-text">
+                    <p>Full Stack Developer</p>
+                    <h1>Hi, I'm <span>Md Suhail</span> <br> From India</h1>
+                </div>
+
+                <img src="images/picuser.png" width="400px" height="400px" alt="" srcset="">
             </div>
+
         </div>
     </div>
     <!-----------------About------------------>
@@ -159,6 +166,17 @@
     <div id="contact">
         <div class="container">
             <div class="row">
+                <div class="contact-right">
+                    <form name="submit-to-google-sheet">
+                        <input type="text" name="Name" placeholder="Your Name" required>
+                        <input type="email" name="Email" placeholder="Your email" required>
+                        <input type="tel" name="Phone" placeholder="Your Phone number" >
+                        <textarea name="Message" rows="6" placeholder="Your Message"></textarea>
+                        <button type="submit" class="btn btn2">Submit</button>
+                    </form>
+                    <span id="msg"></span>
+
+                </div>
                 <div class="contact-left">
                     <h1 class="sub-title">Contact Me</h1>
                     <p><i class="fa fa-envelope"></i>
@@ -175,17 +193,7 @@
                     <a href="images/My Resume.pdf" download class="btn btn2">Download CV</a>
 
                 </div>
-                <div class="contact-right">
-                    <form name="submit-to-google-sheet">
-                        <input type="text" name="Name" placeholder="Your Name" required>
-                        <input type="email" name="Email" placeholder="Your email" required>
-                        <input type="tel" name="Phone" placeholder="Your Phone number" >
-                        <textarea name="Message" rows="6" placeholder="Your Message"></textarea>
-                        <button type="submit" class="btn btn2">Submit</button>
-                    </form>
-                    <span id="msg"></span>
 
-                </div>
 
             </div>
 
